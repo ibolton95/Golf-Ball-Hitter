@@ -1,7 +1,7 @@
 # Planning
 
 ## Problem
-Playing Spikeball during the Covid-19 pandemic has been hard since it requires you to be in close proximity to other people. Our solution to this problem is to create a Spikeball setter.
+Playing Spikeball during the Covid-19 pandemic has been hard since it requires you to be in close proximity to other people. Our solution to this problem is to create a Spikeball setter. It will hit the ball up to you, so then you can continue practicing your best shots!
 
 ## Resources
 Our resources include Onshape, MetroExpress, a servo, wires, and a breadboard.
