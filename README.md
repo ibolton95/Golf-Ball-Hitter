@@ -7,10 +7,10 @@ Playing Spikeball during the Covid-19 pandemic has been hard since it requires y
 Our resources include Onshape, a MetroExpress board, a servo, wires, and a breadboard.
 
 ## Constraints
-The servo may not be strong enough to sufficiently hit the ball. We may have trouble printing our pieces at the Sigma Lab due to Covid-19 restraints and us not being there.
+The servo may not be strong enough to sufficiently hit the ball, but we will test this after our design has been made. We may have trouble printing our pieces at the Sigma Lab due to Covid-19 restraints and us not being there.
 
 ## Solutions
-Our CAD designed arm must be light so the servo can lift it. We hope to finish our pieces on the early side to give Dr. Shields ample time to print them.
+Our CAD designed arm must be light so the servo can lift it and hit the ball. We hope to finish our pieces on the early side to give Dr. Shields ample time to print them.
 
 ## Design Concept
 <img src="SpikeballSetterPlan.JPG" width="600">
