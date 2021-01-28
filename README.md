@@ -15,7 +15,7 @@ Our CAD designed arm must be light so the servo can lift it and hit the ball. We
 ## Design Concept
 We are not exactly sure what our setter should look like to optimizie its hitting ability at this point, but once we create an initial design in OnShape we will update this design section with new images.
 
-<img src="SpikeballSetterPlan.JPG" width="600">
+<img src="SpikeballSetterPlan.JPG" width="500">
 
 ## Schedule
 
