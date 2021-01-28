@@ -12,7 +12,7 @@ The servo may not be strong enough to sufficiently hit the ball. We may have tro
 ## Solutions
 Our CAD designed arm must be light so the servo can lift it. We hope to finish our pieces on the early side to give Dr. Shields ample time to print them.
 
-## Design
+## Design Concept
 <img src="SpikeballSetterPlan.JPG">
 
 ## Schedule
