@@ -4,7 +4,7 @@
 Playing Spikeball during the Covid-19 pandemic has been hard since it requires you to be in close proximity to other people. Our solution to this problem is to create a Spikeball setter. It will hit the ball up to you, so then you can continue practicing your best shots!
 
 ## Resources
-Our resources include Onshape, MetroExpress, a servo, wires, and a breadboard.
+Our resources include Onshape, a MetroExpress board, a servo, wires, and a breadboard.
 
 ## Constraints
 The servo may not be strong enough to sufficiently hit the ball. We may have trouble printing our pieces at the Sigma Lab due to Covid-19 restraints and us not being there.
