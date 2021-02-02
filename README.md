@@ -12,12 +12,12 @@ The servo may not be strong enough to sufficiently hit the ball, but we will tes
 ## Solutions
 Our CAD designed arm must be light so the servo can lift it and hit the ball. We hope to finish our pieces on the early side to give Dr. Shields ample time to print them.
 
-## Design Concept
+## Original Design Concept
 We are not exactly sure what our setter should look like to optimizie its hitting ability at this point, but once we create an initial design in OnShape we will update this design section with new images.
 
 <img src="SpikeballSetterPlan.JPG" width="500">
 
-## Updated Plan
+## Updated Design
 We are now going to make a golf ball putter since the servo will not be able to set a spikeball. The idea stays generally the same as do the contrainsts. We are still worried about the weight, but we believe that the sideways motion and wider paddle-shaped end will aid the servo in hitting the ball. Also, a small golf ball will definitely be easier for the servo to push than a larger spikeball.
 
 <img src="GolfBallPutter.JPG" width="500">
