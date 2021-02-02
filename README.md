@@ -18,7 +18,7 @@ We are not exactly sure what our setter should look like to optimizie its hittin
 <img src="SpikeballSetterPlan.JPG" width="500">
 
 ## Updated Plan
-We are now going to make a golf ball putter since the servo will not be able to set a spikeball. The idea stays generally the same as do the contrainsts. We are still worried about the weight.
+We are now going to make a golf ball putter since the servo will not be able to set a spikeball. The idea stays generally the same as do the contrainsts. We are still worried about the weight, but we believe that the sideways motion and wider paddle-shaped end will aid the servo in hitting the ball. Also, a small golf ball will definitely be easier for the servo to push than a larger spikeball.
 
 <img src="GolfBallPutter.JPG" width="500">
 This is our new design.
