@@ -1,7 +1,7 @@
 # Planning
 
 ## Problem
-Playing Spikeball during the Covid-19 pandemic has been hard since it requires you to be in close proximity to other people. Our solution to this problem is to create a Spikeball setter. It will hit the ball up to you, so you can continue practicing your best shots!
+Mini-golf is always fun, and during the Covid-19 pandemic, it is a great alternative to multi-person sports. We want to create a mini-golf hitter and obstacles to create a fun game that can be easily played alone at the push of a button.
 
 ## Resources
 Our resources include Onshape, a MetroExpress board, a servo, wires, and a breadboard.
@@ -10,7 +10,7 @@ Our resources include Onshape, a MetroExpress board, a servo, wires, and a bread
 The servo may not be strong enough to sufficiently hit the ball, but we will test this after our design has been made. We may have trouble printing our pieces at the Sigma Lab due to Covid-19 restraints and us not being there.
 
 ## Solutions
-Our CAD designed arm must be light so the servo can lift it and hit the ball. We hope to finish our pieces on the early side to give Dr. Shields ample time to print them.
+Our CAD designed arm must be light so the servo can swing it and hit the ball. We hope to finish our pieces on the early side to give Dr. Shields ample time to print them.
 
 ## Original Design Concept
 We are not exactly sure what our setter should look like to optimizie its hitting ability at this point, but once we create an initial design in OnShape we will update this design section with new images.
