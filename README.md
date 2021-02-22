@@ -1,7 +1,7 @@
 # Planning
 
 ## Problem
-Mini-golf is always fun, and during the Covid-19 pandemic, it is a great alternative to multi-person sports. We want to create a mini-golf hitter and obstacles to create a fun game that can be easily played alone at the push of a button.
+Mini-golf is always fun, and during the Covid-19 pandemic, it is a great alternative to multi-person sports. We want to create a golf ball hitter and obstacles to create a fun game that can be easily played alone at the push of a button.
 
 ## Resources
 Our resources include Onshape, a MetroExpress board, a servo, wires, and a breadboard.
