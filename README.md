@@ -29,9 +29,11 @@ This is our new design.
 | ---- | ---- |
 | Week of 1/25 | Finish planning and create milestones |
 | Week of 2/1 | Rough draft of design in Onshape |
-| Week of 2/8 | Revised draft of design + assembly |
-| Week of 2/15 | Create tentative (untested) final model of arm |
-| Week of 2/22 | Write code for the arm |
-| Week of 3/1 | Revise code for the arm |
-| Week of 3/8 | (If available) Print parts and test code OR (if not available) finalize design and code to demonstrate how arm would work |
-| Week of 3/15 | Make any necessary adjustments and create final product |
+| Week of 2/8 | New design draft in Onshape |
+| Week of 2/15 | Revised draft of design + assembly |
+| Week of 2/22 | Revise assmeblies and finalize parts |
+| Week of 3/1 | Create tentative (untested) final model of arm |
+| Week of 3/8 | Write code for the arm |
+| Week of 3/15 | Revise code for the arm |
+| Week of 3/22 | (If available) Print parts and test code OR (if not available) finalize design and code to demonstrate how arm would work |
+| Week of 3/29 | Make any necessary adjustments and create final product |
