@@ -43,3 +43,6 @@ This is our new design.
 | Week of 5/3 | Make any necessary adjustments to parts and code |
 | Week of 5/10 | Create finished product |
 
+Conclusion
+
+Unfortunately, we were not able to assemble a physical golf ball hitter. We assembled the base of both the hitter and the obstacle but we did not 3D print the arms. Our biggest barrier to success was not being in the lab at the same time. Being in the lab at the same time would've allowed us to collobarate and brainstorm solutions much easier. 
